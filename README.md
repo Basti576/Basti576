@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Basti576
 - 👀 I’m interested in Webdevelopment, Webdesign, Data-Science
-- 🌱 I’m currently learning React
+- 🌱 I’m currently learning React & Python 
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
