@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Basti576
-- 👀 I’m interested in Webdevelopment, Webdesign, 
+- 👀 I’m interested in Webdevelopment, Webdesign, Data-Science
 - 🌱 I’m currently learning Javascript / React
 
 <h3 align="left">Languages and Tools:</h3>
