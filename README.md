@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Basti576
-- 👀 I’m interested in Webdevelopment / Webdesign, system administration  
+- 👀 I’m interested in Webdevelopment / Webdesign, System-Administration  
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
